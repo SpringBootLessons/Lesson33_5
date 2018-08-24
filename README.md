@@ -96,10 +96,10 @@ public void SendTemplatedEmail(String message){
 ```
 
 6. Run your application and open a browser, and you should see this:
-![](https://github.com/romielisse/springlessonimg/blob/master/templatedemail.png)
+![](https://github.com/ajhenley/unofficialguides/blob/master/IntroToSpringBoot/img/Lesson33_5a.png)
 
 If you click on the button, you should see this:
-![](https://github.com/romielisse/springlessonimg/blob/master/emailsent.png)
+![](https://github.com/ajhenley/unofficialguides/blob/master/IntroToSpringBoot/img/Lesson33b.png)
 
 If you log into the gmail account provided, you should be able to locate the email that was just sent.
 
